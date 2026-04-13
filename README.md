@@ -5,7 +5,7 @@
 ### We Don’t Patch Old Systems.  
 **We Launch New Rockets.**
 
-In April 2026 we took on our very first client, Ron Bourgeois of Unlock Real Estate in Waltham, MA.
+In April 2026 we took on our very first client, **Ron Bourgeois** of Unlock Real Estate in Waltham, MA.
 
 In just **72 hours** we built him a complete **AI Mission Control dashboard + autonomous Lead Rocket** — from absolute zero.
 
@@ -29,10 +29,10 @@ Delivered the complete Ron package — production setup guide, Cursor build map,
 
 ### What Ron Actually Got
 
-→ One clean, business-oriented **Mission Control dashboard** that gives him total visibility and control over his entire business  
-→ **Lead Rocket** that auto-replies to every new lead in **under 60 seconds** — even while he’s out showing houses  
-→ Full social unification — Instagram, Facebook community groups, Zillow, YouTube (and soon X) — all feeding into one cockpit  
-→ Clear path to the Full Empire + $497/month Rocket Fuel retainer
+- One clean, business-oriented **Mission Control dashboard** that gives him total visibility and control over his entire business  
+- **Lead Rocket** that auto-replies to every new lead in **under 60 seconds** — even while he’s out showing houses  
+- Full social unification — Instagram, Facebook community groups, Zillow, YouTube (and soon X) — all feeding into one cockpit  
+- Clear path to the Full Empire + $497/month Rocket Fuel retainer
 
 ### This Is the AI Rocket Advantage
 
