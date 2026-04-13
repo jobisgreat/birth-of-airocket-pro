@@ -10,7 +10,8 @@ In April 2026 we took on our very first client, Ron Bourgeois of Unlock Real Est
 In just **72 hours** we built him a complete **AI Mission Control dashboard + autonomous Lead Rocket** — from absolute zero.
 
 **Total fresh, original code shipped:**  
-**32,700+ lines** — every single line written in real time. No copy-paste. No Frankenstein code. Pure velocity using the AI Rocket Method (Grok as Strategy Brain + Claude as Execution Arm + Cursor as Builder).
+**32,700+ lines** — every single line written in real time.  
+**No copy-paste. No Frankenstein code.** Pure velocity using the AI Rocket Method (Grok as Strategy Brain + Claude as Execution Arm + Cursor as Builder).
 
 ### The 72-Hour Rocket Launch Log
 
