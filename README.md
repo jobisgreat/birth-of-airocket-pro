@@ -106,12 +106,12 @@ This isn’t prototype code. It’s production infrastructure — tested, valida
 | --- | --- | --- |
 | Team size | 4 senior developers | Forge + VECTOR |
 | Timeline | 8–10 weeks | 48 hours |
-| Estimated cost | $125,000+ | $0 |
+| Estimated cost | $125,000+ | ~$1,000/mo (existing subscription — no incremental spend) + founder's time |
 | Lines produced | ~40,980 | ~40,980 |
 | Crisis response | Weeks to scope + staff | Same day |
 | Validated & live | End of sprint cycle | Same night |
 
-**$125,000 and 10 weeks — or 48 hours and $0.**
+**$125,000 and 10 weeks — or 48 hours on a subscription we already paid for, plus our own time.**
 Same output. Completely different reality.
 
 ### What We Actually Delivered
@@ -216,13 +216,14 @@ One HTML file. Two CDN links. Open in any browser. Done.
 
 ---
 
-## ✅ Not Just Lines — Real Savings, Audited
+## ✅ Not Just Lines — Real Numbers, Audited
 
 We don't round up. We don't carry forward. Every number reconciles.
 
 | Metric | Value |
 | --- | --- |
-| **Total savings (full day)** | **$11,400** (vs senior dev @ $150/hr) |
+| **Senior-dev equivalent labor avoided (full day)** | **$11,400** (76 hrs × $150/hr) |
+| **Actual cost incurred** | ~$1,000/mo (existing subscription — no incremental spend) + founder's time |
 | **Dev hours saved** | **76 hrs → 7.0 hrs** |
 | **Speed multiplier** | **~11x** |
 | **Combined lines written** | **~17,070** |
@@ -241,10 +242,10 @@ Every figure above reproduces from source. No inflation. No padding. Honest acco
 | Timeline | 3–4 weeks |
 | Cost | **$11,400+** (76 hrs × $150) |
 | Review cycles | 2–3 over weeks |
-| AI Rocket cost | **$0** |
+| AI Rocket cost | **~$1,000/mo** (existing subscription — no incremental spend) + founder's time |
 | AI Rocket timeline | **One session** |
 
-**$11,400 and weeks of meetings — or one brutal session and $0.** Same output. Different reality.
+**$11,400 and weeks of meetings — or one brutal session on a subscription we already paid for, plus our own time.** Same output. Different reality.
 
 ---
 
@@ -353,9 +354,19 @@ We count v1 and v2 of the audit even though they got replaced. They earned v3. H
 DeliverableStatusdry-run-protocol.md (265 lines)Locked into permanent bootstrapairocket-pro GitHub OrganizationCreated — company container liveClaude-in-Chrome handoff prompt (~150 lines)ShippedPilot Client Conversion Audit v1 (1,045 lines)Shipped → replacedPilot Client Conversion Audit v2 (1,687 lines)Shipped → replacedPilot Client Conversion Audit v3 (1,745 lines)Final · slide-deck-matched · pitch-readyMulti-AI consensus validation workflowBattle-tested in live production
 Every line above reconciles against source files. No inflation. No carry-forward padding.
 
-What a Traditional Team Would Cost
-Traditional ApproachAI Rocket MethodTeam: 2 senior devs + ops leadForge + VECTORTimeline2–3 weeksCost~$5,500+ (37 hrs × $150)Protocol designExternal consultant engagementPitch-ready editorial assetDesign agency handoff (1–2 weeks)AI Rocket cost$0AI Rocket timelineOne session
-Weeks of coordination, thousands of dollars — or one broken plan and $0. Same output. Different reality.
+## What a Traditional Team Would Cost
+
+| Traditional Approach | AI Rocket Method |
+| --- | --- |
+| Team: 2 senior devs + ops lead | Forge + VECTOR |
+| Timeline | 2–3 weeks |
+| Cost | ~$5,500+ (37 hrs × $150) |
+| Protocol design | External consultant engagement |
+| Pitch-ready editorial asset | Design agency handoff (1–2 weeks) |
+| AI Rocket cost | ~$1,000/mo (existing subscription — no incremental spend) + founder's time |
+| AI Rocket timeline | One session |
+
+Weeks of coordination, thousands of dollars — or one broken plan, a subscription we already paid for, and our own time. Same output. Different reality.
 
 Why April 17 Mattered
 Three permanent things came out of the blast zone:
@@ -464,9 +475,18 @@ We don't count what we remember. We count what we can verify.
 TestResultLive DOM font extraction vs Blueprint v1 assumption❌ v1 mismatch · ✅ v2 matches (Geist + JetBrains Mono)Live DOM color analysis (teal #00D2BE)✅ 136 occurrences confirmedBlueprint v2 disk line count vs claimed line count✅ 1,654 disk-verifiedCommand HQ database count✅ 8 live and queryableCommand HQ seeded record count✅ 30+ verified across databasesLinkedIn vanity URL change (live verification)✅ tim-regan-ai activeAccounts captured with 2FA flags✅ 16/16 with recovery paths documented
 Every number above reconciles against disk, DOM, or live UI. Honest accounting, always.
 
-What a Traditional Team Would Cost
-Traditional ApproachAI Rocket MethodTeam: brand designer + Notion consultant + copywriterForge + VECTORTimeline: 3–4 weeksOne sessionBrand audit engagementLive DOM inspection, same-sessionNotion workspace buildout8 databases + 9 pages · same-sessionLead magnet editorial passWritten + brand-matched · same-sessionEstimated cost: $14,190 (94.6 hrs × $150)$0
-Weeks of agency scoping calls — or one session and $0. Same output. Different reality.
+## What a Traditional Team Would Cost
+
+| Traditional Approach | AI Rocket Method |
+| --- | --- |
+| Team: brand designer + Notion consultant + copywriter | Forge + VECTOR |
+| Timeline: 3–4 weeks | One session |
+| Brand audit engagement | Live DOM inspection, same-session |
+| Notion workspace buildout | 8 databases + 9 pages · same-session |
+| Lead magnet editorial pass | Written + brand-matched · same-session |
+| Estimated cost: $14,190 (94.6 hrs × $150) | ~$1,000/mo (existing subscription — no incremental spend) + founder's time |
+
+Weeks of agency scoping calls — or one session on a subscription we already paid for, plus our own time. Same output. Different reality.
 
 Why April 18 Mattered
 Three permanent things came out of this session:
@@ -568,9 +588,18 @@ Every migration and every stored function hit live production. Every one got smo
 TestResultCommission tier lookup function (8 boundary cases)✅ 8/8 PASSTicket counter generator (4 edge cases)✅ 4/4 PASSSacred Rule RPC — full 5-step approval flow✅ PASS · queue → reject-pre-approval → approve → reject-double-approve → sendDatabase CHECK constraint on outbound email✅ PASS · DB now refuses "send" without explicit approval timestampAll 5 production migrations — reversibility✅ Applied additive · zero rollbacks requiredPhantom-schema bugs caught by Execution Arm✅ 4/4 caught before production impact
 Every number above reconciles against live database state. Not plans. Not intentions. Applied reality.
 
-What a Traditional Team Would Cost
-Traditional ApproachAI Rocket MethodTeam: 3 senior engineers + architectForge + VECTORTimeline: 2–3 weeks of spec review + migration planningOne holiday sessionSpec-to-schema alignment meetingsLive verification in real timeMigration rollout: staged over sprint cyclesApplied same-day, additive, reversibleEstimated cost: ~$13,500 (90 hrs × $150)$0Pre-launch readiness confidence: partialComplete — smoke tests green
-Three weeks and thirteen thousand dollars — or one federal holiday and $0. Same output. Different reality.
+## What a Traditional Team Would Cost
+
+| Traditional Approach | AI Rocket Method |
+| --- | --- |
+| Team: 3 senior engineers + architect | Forge + VECTOR |
+| Timeline: 2–3 weeks of spec review + migration planning | One holiday session |
+| Spec-to-schema alignment meetings | Live verification in real time |
+| Migration rollout: staged over sprint cycles | Applied same-day, additive, reversible |
+| Estimated cost: ~$13,500 (90 hrs × $150) | ~$1,000/mo (existing subscription — no incremental spend) + founder's time |
+| Pre-launch readiness confidence: partial | Complete — smoke tests green |
+
+Three weeks and thirteen thousand dollars — or one federal holiday, a subscription we already paid for, and our own time. Same output. Different reality.
 
 Why April 20 Mattered
 Three permanent things came out of this session:
@@ -639,8 +668,14 @@ Three permanent wins locked in these two days
 ⚡ Kurt Protocol (Rule #K) adopted — non-negotiable doctrine that self-tested and prevented stale-spec damage before any code shipped
 
 
-What a Traditional Team Would Cost
-Traditional ApproachAI Rocket MethodSenior devs + designer + Notion architectForge + VECTOR4–6 weeksTwo sessions$17,700+$0
+## What a Traditional Team Would Cost
+
+| Traditional Approach | AI Rocket Method |
+| --- | --- |
+| Senior devs + designer + Notion architect | Forge + VECTOR |
+| 4–6 weeks | Two sessions |
+| $17,700+ | ~$1,000/mo (existing subscription — no incremental spend) + founder's time |
+
 The slow two days built the permanent standard. That's the trade we keep making.
 
 Shipped on April 22–23
@@ -721,9 +756,18 @@ Honest accounting, always.
 TestResultsacred-rule-validator · clean state✅ 4/4 PASS · exit 0sacred-rule-validator · dropped CHECK constraint✅ P1 FAIL · exit 1sacred-rule-validator · P0 incident scenario✅ 3 FAIL · exit 1doctrine-audit · clean state✅ 4/4 PASS · exit 0doctrine-audit · registry drift (cost_tracked rule added)✅ P2 FAIL · exit 1doctrine-audit · silent edit (SHA256 mismatch)✅ P1 FAIL · exit 1doctrine-audit · live capture against /mnt/skills/user/✅ surfaced naming-convention drift between own skillsfounder-signature · generate single✅ exit 0 · canonical hash producedfounder-signature · generate-bulk (3 targets)✅ exit 0founder-signature · verify valid signature with full audit✅ 4/4 PASS · exit 0founder-signature · verify forged authority (vector instead of tim_regan)✅ P1 + P2 FAIL · exit 1founder-signature · verify replay attack (duplicate hash in 24h)✅ P3 FAIL · exit 1founder-signature · round-trip generate-then-verify✅ PASSkurt-check live run against Tier 2 (gvaeqdfdljyjvftairxz)✅ 3 PASS · 1 expected WARN100% Sacred Rule reference coverage in agents_log (24h window)✅ 4/4 governance actions taggedCryptographic ship signatures written to agents_log✅ 4/4 with tamper-evident SHA256
 Every figure in this chapter reconciles against disk, against database, or against tool output. No padding. No carry-forward.
 
-What a Traditional Team Would Cost
-Traditional ApproachAI Rocket MethodTeam: 2 senior engineers + 1 security consultantForge + VECTORTimeline: 4–6 weeks (audit framework + 3 production skills)One sessionSpec round-trips: 2–3 weeks of meetingsSame-session red-teamCode review: external engagementSelf-tested via examples + evalsAudit framework documentation: 1–2 weeks editorial passLocked in-line with shippingEstimated cost: ~$15,750+ (105 hrs × $150)$0
-Six weeks and fifteen thousand dollars — or one Monday and $0. Same output. Different reality.
+## What a Traditional Team Would Cost
+
+| Traditional Approach | AI Rocket Method |
+| --- | --- |
+| Team: 2 senior engineers + 1 security consultant | Forge + VECTOR |
+| Timeline: 4–6 weeks (audit framework + 3 production skills) | One session |
+| Spec round-trips: 2–3 weeks of meetings | Same-session red-team |
+| Code review: external engagement | Self-tested via examples + evals |
+| Audit framework documentation: 1–2 weeks editorial pass | Locked in-line with shipping |
+| Estimated cost: ~$15,750+ (105 hrs × $150) | ~$1,000/mo (existing subscription — no incremental spend) + founder's time |
+
+Six weeks and fifteen thousand dollars — or one Monday on a subscription we already paid for, plus our own time. Same output. Different reality.
 
 Why April 27 Mattered
 Three permanent things came out of this session:
@@ -843,7 +887,7 @@ OperatorRoleLinesForgeStrategy Brain — architecture, governance design, system
 This wasn’t volume for volume’s sake. The engine that was built can now take an idea and turn it into a governed, published post. That changes the unit economics of showing up.
 Every line above is disk-verified. Honest accounting, always.
 
-What a Traditional Team Would Cost
+## What a Traditional Team Would Cost
 
 
 
@@ -865,8 +909,13 @@ What a Traditional Team Would Cost
 
 
 
-Traditional ApproachAI Rocket MethodMultiple senior engineers + project managementForge + VECTOR5–6 weeks5 sessions~$27,000+$0 incremental cost
-Weeks of coordination and meetings — or five focused sessions and $0.
+| Traditional Approach | AI Rocket Method |
+| --- | --- |
+| Multiple senior engineers + project management | Forge + VECTOR |
+| 5–6 weeks | 5 sessions |
+| ~$27,000+ | ~$1,000/mo (existing subscription — no incremental spend) + founder's time |
+
+Weeks of coordination and meetings — or five focused sessions on a subscription we already paid for, plus our own time.
 Same output. Different reality.
 
 Why These 8 Days Mattered
